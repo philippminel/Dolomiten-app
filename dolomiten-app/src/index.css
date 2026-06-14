@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; }
+body { background: #faf7f2; }
+input, textarea, button { font-family: inherit; }
+::-webkit-scrollbar { height: 0; width: 0; }
